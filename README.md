@@ -5,4 +5,3 @@ Miller Direction is created using a matrix transformation to the start and end p
 
 Things to improve now:
   - Add more arrangements with actual numbers.
-  - Fix the miller plane drawing function (using the tranformation matrix maybe?).
