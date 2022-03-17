@@ -6,4 +6,6 @@ Miller Direction is created using a matrix transformation to the start and end p
 Things to improve now:
   - Add more arrangements with actual numbers.
 
-![image](https://user-images.githubusercontent.com/26636053/157516429-e4a62a43-0488-474b-948e-df37af837f15.png)
+<p align=center>
+<img src="https://user-images.githubusercontent.com/26636053/157516429-e4a62a43-0488-474b-948e-df37af837f15.png">
+</p>
